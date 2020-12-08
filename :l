@@ -1,0 +1,6 @@
+print(hello)
+print
+
+from turtle import
+forward(10)
+bye()
